@@ -4,8 +4,6 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="md" type="PLAIN_TEXT" />
-      <removed_mapping ext="md" type="Specification" />
     </extensionMap>
   </component>
 </application>
