@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="ActivateDebugToolWindow" />
+  <action id="ActivateEventLogToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateGradleToolWindow">
@@ -12,6 +15,7 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 5" />
@@ -33,6 +37,12 @@
   <action id="FileChooser.GotoProject" />
   <action id="RebuildGradleProject">
     <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
