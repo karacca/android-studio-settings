@@ -4,9 +4,13 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="19" />
+    <option name="FONT_FAMILY" value="JetBrains Mono" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
+    <option name="CARET_BLINKING_PERIOD" value="350" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
 </application>
