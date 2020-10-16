@@ -1,6 +1,10 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="karacca" parent="Mac OS X 10.5+">
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
   <action id="RebuildGradleProject">
     <keyboard-shortcut first-keystroke="ctrl b" />
