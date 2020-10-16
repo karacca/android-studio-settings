@@ -1,0 +1,11 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="RebuildGradleProject">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+</keymap>
