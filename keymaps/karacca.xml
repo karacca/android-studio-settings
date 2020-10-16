@@ -1,4 +1,4 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="karacca" parent="Mac OS X 10.5+">
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
