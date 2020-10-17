@@ -18,6 +18,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
