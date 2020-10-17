@@ -21,6 +21,9 @@
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
