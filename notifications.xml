@@ -3,5 +3,6 @@
     <notification groupId="Android Gradle Upgrade Notification" displayType="NONE" />
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" />
   </component>
 </application>
