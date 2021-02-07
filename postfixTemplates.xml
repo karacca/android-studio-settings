@@ -1,0 +1,13 @@
+<application>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="org.jetbrains.kotlin.idea.codeInsight.postfix.KtPostfixTemplateProvider">
+        <value>
+          <set>
+            <option value="org.jetbrains.kotlin.idea.codeInsight.postfix.KtIntroduceVariablePostfixTemplate#.val" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
+  </component>
+</application>
