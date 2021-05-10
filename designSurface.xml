@@ -8,6 +8,7 @@
         <entry key="app/src/main/res/layout/dialog_famehol.xml" value="0.5" />
         <entry key="app/src/main/res/layout/dialog_primary.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_comment_list.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/titlebar.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_comment.xml" value="0.5" />
       </map>
     </option>
