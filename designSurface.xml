@@ -11,6 +11,8 @@
         <entry key="app/src/main/res/layout/fragment_gsm.xml" value="0.5" />
         <entry key="app/src/main/res/layout/titlebar.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_comment.xml" value="0.5" />
+        <entry key="core/src/main/res/layout/view_toolbar.xml" value="0.4861111111111111" />
+        <entry key="owner/src/main/res/layout/fragment_address_detail.xml" value="0.4861111111111111" />
       </map>
     </option>
   </component>
