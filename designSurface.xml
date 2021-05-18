@@ -5,6 +5,7 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/bg_cancel_button.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/bg_comment.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="app/src/main/res/layout/dialog_famehol.xml" value="0.5" />
         <entry key="app/src/main/res/layout/dialog_primary.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_basket.xml" value="0.5" />
