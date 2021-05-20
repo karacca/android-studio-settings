@@ -19,6 +19,8 @@
         <entry key="owner/src/main/res/layout/fragment_about.xml" value="0.47314814814814815" />
         <entry key="owner/src/main/res/layout/fragment_address_detail.xml" value="0.4861111111111111" />
         <entry key="owner/src/main/res/layout/fragment_login.xml" value="0.5" />
+        <entry key="owner/src/main/res/layout/fragment_order.xml" value="0.5" />
+        <entry key="owner/src/main/res/layout/fragment_register.xml" value="0.5" />
       </map>
     </option>
   </component>
