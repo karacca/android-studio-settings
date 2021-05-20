@@ -11,6 +11,7 @@
         <entry key="app/src/main/res/layout/fragment_basket.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_comment_list.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_gsm.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_test.xml" value="0.5" />
         <entry key="app/src/main/res/layout/titlebar.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_comment.xml" value="0.5" />
