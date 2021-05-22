@@ -5,6 +5,8 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/bg_cancel_button.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/bg_comment.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/bg_landing_button.xml" value="0.42569444444444443" />
+        <entry key="app/src/main/res/drawable/bg_phone_number.xml" value="0.4272254710851202" />
         <entry key="app/src/main/res/drawable/bg_splash.xml" value="0.45065113091158326" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.42291666666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
@@ -14,6 +16,7 @@
         <entry key="app/src/main/res/layout/fragment_comment_list.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_gsm.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.4152046783625731" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.4152046783625731" />
         <entry key="app/src/main/res/layout/fragment_onboarding.xml" value="0.43797121315969845" />
         <entry key="app/src/main/res/layout/fragment_onboarding_page.xml" value="0.43797121315969845" />
         <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.43797121315969845" />
