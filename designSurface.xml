@@ -22,6 +22,7 @@
         <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.43797121315969845" />
         <entry key="app/src/main/res/layout/fragment_splash.xml.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_test.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/layout_loading.xml" value="0.5" />
         <entry key="app/src/main/res/layout/titlebar.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_comment.xml" value="0.5" />
         <entry key="core/src/main/res/drawable/bg_app_dialog_button.xml" value="0.3888888888888889" />
