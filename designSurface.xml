@@ -29,6 +29,7 @@
         <entry key="app/src/main/res/layout/titlebar.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_comment.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/bg_checkbox.xml" value="0.5" />
+        <entry key="commons/views/src/main/res/drawable/bg_checkbox_selected.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/bg_radio_button_disabled.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/bg_radio_button_regular.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/bg_radio_button_selected.xml" value="0.5" />
