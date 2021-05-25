@@ -3,7 +3,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_button_purple_disabled.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/bg_cancel_button.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/bg_checkbox.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/bg_comment.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/bg_landing_button.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/bg_phone_number.xml" value="0.5" />
