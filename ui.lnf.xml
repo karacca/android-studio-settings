@@ -3,6 +3,8 @@
     <option name="compactTreeIndents" value="true" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_FILE_ICONS_IN_TABS" value="false" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="false" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
