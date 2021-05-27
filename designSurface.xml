@@ -45,7 +45,7 @@
         <entry key="commons/views/src/main/res/drawable/bg_radio_button_regular.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/bg_radio_button_selected.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/ic_white_check.xml" value="0.5" />
-        <entry key="commons/views/src/main/res/layout/view_default_edit_text.xml" value="0.43797121315969845" />
+        <entry key="commons/views/src/main/res/layout/view_default_edit_text.xml" value="0.5" />
         <entry key="commons/views/src/main/res/layout/view_multi_functional_input.xml" value="0.44375" />
         <entry key="core/src/main/res/drawable/bg_app_dialog_button.xml" value="0.3888888888888889" />
         <entry key="core/src/main/res/drawable/bg_cancel_dialog_button_orange.xml" value="0.5" />
