@@ -10,6 +10,8 @@
         <entry key="app/src/main/res/drawable/bg_landing_button.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/bg_phone_number.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/bg_splash.xml" value="0.45065113091158326" />
+        <entry key="app/src/main/res/drawable/ic_bookmark.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_bookmark_checked.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/ic_construction.xml" value="0.4703703703703704" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.42291666666666666" />
         <entry key="app/src/main/res/drawable/ic_menu_home.xml" value="0.5" />
