@@ -52,6 +52,7 @@
         <entry key="commons/views/src/main/res/drawable/bg_radio_button_disabled.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/bg_radio_button_regular.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/bg_radio_button_selected.xml" value="0.5" />
+        <entry key="commons/views/src/main/res/drawable/bg_tab_layout.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/ic_white_check.xml" value="0.5" />
         <entry key="commons/views/src/main/res/layout/view_default_edit_text.xml" value="0.5" />
         <entry key="commons/views/src/main/res/layout/view_multi_functional_input.xml" value="0.44375" />
