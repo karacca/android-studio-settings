@@ -60,6 +60,7 @@
         <entry key="commons/views/src/main/res/drawable/bg_tab_layout.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/ic_white_check.xml" value="0.5" />
         <entry key="commons/views/src/main/res/layout/view_default_edit_text.xml" value="0.5" />
+        <entry key="commons/views/src/main/res/layout/view_menu_row.xml" value="0.5" />
         <entry key="commons/views/src/main/res/layout/view_multi_functional_input.xml" value="0.44375" />
         <entry key="commons/views/src/main/res/layout/view_primary_button.xml" value="0.5" />
         <entry key="commons/views/src/main/res/layout/view_tab_layout.xml" value="0.5" />
