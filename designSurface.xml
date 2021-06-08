@@ -85,6 +85,7 @@
         <entry key="owner/src/main/res/layout/fragment_order.xml" value="0.5" />
         <entry key="owner/src/main/res/layout/fragment_register.xml" value="0.5" />
         <entry key="owner/src/main/res/layout/fragment_walkthrough.xml" value="0.34074074074074073" />
+        <entry key="owner/src/main/res/layout/view_comment_item.xml" value="0.5" />
       </map>
     </option>
   </component>
