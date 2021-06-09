@@ -39,10 +39,12 @@
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_register.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_search.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_selector.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_showcase.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_splash.xml.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_test.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_typography.xml" value="0.5" />
         <entry key="app/src/main/res/layout/item_feature.xml" value="0.5" />
         <entry key="app/src/main/res/layout/layout_alert.xml" value="0.39947916666666666" />
         <entry key="app/src/main/res/layout/layout_loading.xml" value="0.5" />
