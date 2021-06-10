@@ -57,6 +57,7 @@
         <entry key="app/src/main/res/layout/view_comment.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_event.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_following_user.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/view_product.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_toolbar.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/bg_checkbox.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/bg_checkbox_selected.xml" value="0.5" />
