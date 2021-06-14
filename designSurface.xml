@@ -27,6 +27,7 @@
         <entry key="app/src/main/res/layout/fragment_comment_list.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_container.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_discover.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_edit_text.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_event_list.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_following.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_gsm.xml" value="0.5" />
