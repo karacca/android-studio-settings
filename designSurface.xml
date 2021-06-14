@@ -63,6 +63,7 @@
         <entry key="commons/views/src/main/res/drawable/bg_checkbox_selected.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/bg_input_area.xml" value="0.45065113091158326" />
         <entry key="commons/views/src/main/res/drawable/bg_input_area_active.xml" value="0.4565972222222222" />
+        <entry key="commons/views/src/main/res/drawable/bg_progress_bar_rounded.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/bg_radio_button_disabled.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/bg_radio_button_regular.xml" value="0.5" />
         <entry key="commons/views/src/main/res/drawable/bg_radio_button_selected.xml" value="0.5" />
