@@ -89,7 +89,7 @@
         <entry key="core/src/main/res/drawable/bg_green_circle.xml" value="0.5" />
         <entry key="core/src/main/res/drawable/bg_login_edit_text.xml" value="0.5" />
         <entry key="core/src/main/res/drawable/bg_meet_dialog_button.xml" value="0.5" />
-        <entry key="core/src/main/res/layout/view_toolbar.xml" value="0.4861111111111111" />
+        <entry key="core/src/main/res/layout/view_toolbar.xml" value="0.5" />
         <entry key="owner/src/main/res/layout/fragment_about.xml" value="0.5" />
         <entry key="owner/src/main/res/layout/fragment_address_detail.xml" value="0.4861111111111111" />
         <entry key="owner/src/main/res/layout/fragment_addresses.xml" value="0.48333333333333334" />
