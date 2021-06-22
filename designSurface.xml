@@ -23,6 +23,7 @@
         <entry key="app/src/main/res/drawable/img_user_placeholder.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="app/src/main/res/layout/dialog_famehol.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/dialog_fragment_default.xml" value="0.4898148148148148" />
         <entry key="app/src/main/res/layout/dialog_primary.xml" value="0.5" />
         <entry key="app/src/main/res/layout/dialog_single_choice.xml" value="0.39814814814814814" />
         <entry key="app/src/main/res/layout/fragment_basket.xml" value="0.5956521739130435" />
@@ -35,6 +36,7 @@
         <entry key="app/src/main/res/layout/fragment_following.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_gsm.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_installment_picker.xml" value="0.4489274770173647" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.4222222222222222" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_main.xml" value="0.5" />
