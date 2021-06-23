@@ -109,6 +109,7 @@
         <entry key="owner/src/main/res/layout/fragment_walkthrough.xml" value="0.34074074074074073" />
         <entry key="owner/src/main/res/layout/view_comment_item.xml" value="0.5" />
         <entry key="showcase/src/main/res/layout/activity_showcase.xml" value="0.5" />
+        <entry key="showcase/src/main/res/layout/fragment_picker.xml" value="0.5" />
         <entry key="showcase/src/main/res/layout/fragment_typography.xml" value="0.5" />
         <entry key="showcase/src/main/res/layout/layout_menu_row.xml" value="0.55" />
       </map>
