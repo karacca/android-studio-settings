@@ -53,7 +53,7 @@
         <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_splash.xml.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_test.xml" value="0.5" />
-        <entry key="app/src/main/res/layout/fragment_try_bottomsheet.xml" value="0.4898148148148148" />
+        <entry key="app/src/main/res/layout/fragment_try_bottomsheet.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_typography.xml" value="0.5" />
         <entry key="app/src/main/res/layout/item_feature.xml" value="0.5" />
         <entry key="app/src/main/res/layout/item_parent_reyclerview.xml" value="0.5" />
@@ -108,7 +108,7 @@
         <entry key="owner/src/main/res/layout/fragment_register.xml" value="0.5" />
         <entry key="owner/src/main/res/layout/fragment_walkthrough.xml" value="0.34074074074074073" />
         <entry key="owner/src/main/res/layout/view_comment_item.xml" value="0.5" />
-        <entry key="showcase/src/main/res/layout/activity_showcase.xml" value="0.44074074074074077" />
+        <entry key="showcase/src/main/res/layout/activity_showcase.xml" value="0.5" />
         <entry key="showcase/src/main/res/layout/fragment_typography.xml" value="0.5" />
         <entry key="showcase/src/main/res/layout/layout_menu_row.xml" value="0.55" />
       </map>
