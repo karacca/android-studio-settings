@@ -23,7 +23,7 @@
         <entry key="app/src/main/res/drawable/img_user_placeholder.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="app/src/main/res/layout/dialog_famehol.xml" value="0.5" />
-        <entry key="app/src/main/res/layout/dialog_fragment_default.xml" value="0.4898148148148148" />
+        <entry key="app/src/main/res/layout/dialog_fragment_default.xml" value="0.5" />
         <entry key="app/src/main/res/layout/dialog_primary.xml" value="0.5" />
         <entry key="app/src/main/res/layout/dialog_single_choice.xml" value="0.39814814814814814" />
         <entry key="app/src/main/res/layout/fragment_address_list.xml" value="0.5" />
@@ -111,6 +111,8 @@
         <entry key="owner/src/main/res/layout/fragment_walkthrough.xml" value="0.34074074074074073" />
         <entry key="owner/src/main/res/layout/view_comment_item.xml" value="0.5" />
         <entry key="showcase/src/main/res/layout/activity_showcase.xml" value="0.5" />
+        <entry key="showcase/src/main/res/layout/fragment_bottom_sheet.xml" value="0.5" />
+        <entry key="showcase/src/main/res/layout/fragment_menu_row.xml" value="0.5" />
         <entry key="showcase/src/main/res/layout/fragment_picker.xml" value="0.5" />
         <entry key="showcase/src/main/res/layout/fragment_typography.xml" value="0.5" />
         <entry key="showcase/src/main/res/layout/layout_menu_row.xml" value="0.55" />
