@@ -66,6 +66,7 @@
         <entry key="app/src/main/res/layout/layout_under_construction.xml" value="0.5" />
         <entry key="app/src/main/res/layout/titlebar.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_address.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/view_address_picker.xml" value="0.3738508682328907" />
         <entry key="app/src/main/res/layout/view_basket_header.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_basket_product.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_basket_summary.xml" value="0.6659856996935649" />
