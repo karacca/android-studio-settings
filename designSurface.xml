@@ -42,7 +42,7 @@
         <entry key="app/src/main/res/layout/fragment_event_list.xml" value="0.3738508682328907" />
         <entry key="app/src/main/res/layout/fragment_feed_page.xml" value="0.3738508682328907" />
         <entry key="app/src/main/res/layout/fragment_feed_page_new.xml" value="0.3738508682328907" />
-        <entry key="app/src/main/res/layout/fragment_following.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_following.xml" value="0.45" />
         <entry key="app/src/main/res/layout/fragment_gsm.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_installment_picker.xml" value="0.4489274770173647" />
@@ -83,7 +83,7 @@
         <entry key="app/src/main/res/layout/view_category.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_comment.xml" value="0.5" />
         <entry key="app/src/main/res/layout/view_event.xml" value="0.5" />
-        <entry key="app/src/main/res/layout/view_following_user.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/view_following_user.xml" value="0.3738508682328907" />
         <entry key="app/src/main/res/layout/view_player_controller.xml" value="0.3738508682328907" />
         <entry key="app/src/main/res/layout/view_product.xml" value="0.3738508682328907" />
         <entry key="app/src/main/res/layout/view_toolbar.xml" value="0.5" />
