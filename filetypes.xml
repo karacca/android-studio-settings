@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="bg_live_events.xml" type="AUTO_DETECTED" />
       <mapping pattern="text_color_grey_button" type="AUTO_DETECTED" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="ic_social_instagram_small" type="PLAIN_TEXT" />
       <mapping pattern="file_paths" type="XML" />

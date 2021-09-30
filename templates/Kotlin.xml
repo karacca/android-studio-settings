@@ -3,10 +3,12 @@
     <variable name="RECEIVER" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="&quot;v&quot;" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="exvar" value="var $RECEIVER$.$NAME$ : $TYPE$&#10;get() {&#10;$END$&#10;}&#10;set(value) {&#10; &#10;}" description="Extension read-write property" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="RECEIVER" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
     <variable name="NAME" expression="" defaultValue="&quot;v&quot;" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="&quot;Any&quot;" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
