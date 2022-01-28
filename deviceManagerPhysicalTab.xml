@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="3JQ7N18530001383" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-01-28T11:46:59.072502Z" />
+        <name value="HUAWEI ANE-LX1" />
+        <target value="Android 8.0" />
+        <api value="26" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
