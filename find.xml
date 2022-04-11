@@ -12,5 +12,6 @@
     <mask>*.java</mask>
     <mask>*.kt</mask>
     <mask>*.xml</mask>
+    <mask>*json</mask>
   </component>
 </application>
