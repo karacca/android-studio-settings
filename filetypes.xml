@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="text_color_grey_button" type="AUTO_DETECTED" />
       <mapping pattern="bg_live_events.xml" type="AUTO_DETECTED" />
+      <mapping pattern="text_color_grey_button" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="a" type="PLAIN_TEXT" />
