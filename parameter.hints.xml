@@ -1,8 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <option id="SHOW_FUNCTION_HINT" value="true" />
-    <disabledLanguages>
-      <language id="kotlin" />
-    </disabledLanguages>
-  </component>
-</application>
