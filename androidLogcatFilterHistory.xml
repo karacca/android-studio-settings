@@ -1,0 +1,22 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine " />
+        <option value="package:mine level:error " />
+        <option value="package:mine ASDSADSADASD" />
+        <option value="TooLarge" />
+        <option value="package:mine TooLargeTool" />
+        <option value="package:mine" />
+        <option value="package:mine tag:Video " />
+        <option value="package:mine tag:Video" />
+        <option value="package:mine Video Playback Replay Video" />
+        <option value="package:mine ASDASD" />
+        <option value="package:mine GSSingleClickAlertButtonLOG" />
+        <option value="package:mine About to upload" />
+        <option value="package:mine ASDASDASDASD" />
+        <option value="package:mine mParticle" />
+      </list>
+    </option>
+  </component>
+</application>
