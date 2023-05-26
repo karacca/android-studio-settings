@@ -18,6 +18,9 @@
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateRunningDevicesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
